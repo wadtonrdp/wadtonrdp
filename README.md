@@ -56,7 +56,3 @@ Projeto comercial desenvolvido em colaboração — eu no frontend com **Next.js
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wadton-rodrigues-de-paula)
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wadtonrdp&color=blue&style=flat-square&label=Visitas+no+perfil" />
-</div>
