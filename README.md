@@ -12,7 +12,13 @@ Cursando **Análise e Desenvolvimento de Sistemas** (2º ano) · Aberto para opo
 
 ## 🧑‍💻 Sobre mim
 
-Sou desenvolvedor frontend com foco em criar interfaces modernas, funcionais e com boa experiência de usuário. Tenho interesse em UI/UX e gosto de transformar ideias em produtos reais — como o **SIPAG**, sistema de gestão que estou desenvolvendo como projeto comercial.
+Muito prazer, me chamo Wadton! Sou de Cuiabá/MT e estou cursando **Análise e Desenvolvimento de Sistemas** (2º ano). Decidi entrar na área de tech porque quero crescer em um mercado que está sempre evoluindo — e eu quero evoluir junto.
+
+Me identifico bastante com o **frontend**, especialmente quando o assunto é criar interfaces que fazem sentido para quem usa. Tenho interesse em aprender **UI/UX** e acredito que um bom produto começa por uma boa experiência.
+
+Sou dedicado, proativo e estou sempre disposto a aprender coisas novas — seja uma tecnologia, uma ferramenta ou uma forma melhor de resolver um problema. Atualmente estou desenvolvendo o **SIPAG**, um sistema de gestão real que estou construindo junto com um colega para ser comercializado.
+
+Estou **aberto a oportunidades** de estágio ou vagas júnior onde eu possa contribuir e continuar crescendo. 🚀
 
 ---
 
@@ -52,6 +58,7 @@ Projeto comercial desenvolvido em colaboração — eu no frontend com **Next.js
 
 ## 📬 Contato
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5565999305523)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wadtonrdp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wadton-rodrigues-de-paula)
 
