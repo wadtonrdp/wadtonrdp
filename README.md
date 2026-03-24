@@ -1,10 +1,10 @@
 <div align="center">
 
-# Olá, eu sou o Wadton 👋
+# Olá, eu sou o Wadton
 
-**Desenvolvedor Frontend** · Cuiabá, MT 🌿
+**Desenvolvedor Frontend** · Cuiabá, MT
 
-Cursando **Análise e Desenvolvimento de Sistemas** (2º ano) · Aberto para oportunidades
+Cursando **Análise e Desenvolvimento de Sistemas** (2º ano) · Aberto para oportunidades/freelancer
 
 </div>
 
