@@ -51,8 +51,8 @@ Projeto comercial desenvolvido em colaboração — eu no frontend com **Next.js
 
 <div align="center">
 
-![Wadton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wadtonrdp&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadtonrdp&layout=compact&theme=tokyonight&hide_border=true)
+![Wadton's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wadtonrdp&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wadtonrdp&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
