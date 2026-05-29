@@ -1,10 +1,9 @@
 <div align="center">
 
 # Olá, eu sou o Wadton
-
 **Desenvolvedor Frontend** · Cuiabá, MT
 
-Cursando **Análise e Desenvolvimento de Sistemas** (2º ano) · Aberto para oportunidades/freelancer
+Cursando **Análise e Desenvolvimento de Sistemas** (3º semestre) · UniSenai · Aberto para oportunidades/freelancer
 
 </div>
 
@@ -12,11 +11,11 @@ Cursando **Análise e Desenvolvimento de Sistemas** (2º ano) · Aberto para opo
 
 ## 🧑‍💻 Sobre mim
 
-Muito prazer, me chamo Wadton! Sou de Cuiabá/MT e estou cursando **Análise e Desenvolvimento de Sistemas** (2º ano). Decidi entrar na área de tech porque quero crescer em um mercado que está sempre evoluindo — e eu quero evoluir junto.
+Muito prazer, me chamo Wadton! Sou de Cuiabá/MT e estou cursando **Análise e Desenvolvimento de Sistemas** (3º semestre) na **UniSenai**.
 
 Me identifico bastante com o **frontend**, especialmente quando o assunto é criar interfaces que fazem sentido para quem usa. Tenho interesse em aprender **UI/UX** e acredito que um bom produto começa por uma boa experiência.
 
-Sou dedicado, proativo e estou sempre disposto a aprender coisas novas — seja uma tecnologia, uma ferramenta ou uma forma melhor de resolver um problema. Atualmente estou desenvolvendo o **SIPAG**, um sistema de gestão real que estou construindo junto com um colega para ser comercializado.
+Sou dedicado, proativo e estou sempre disposto a aprender coisas novas — seja uma tecnologia, uma ferramenta ou uma forma melhor de resolver um problema. Atualmente estou desenvolvendo o **Moneto**, um dashboard financeiro pessoal com dados em tempo real, banco de dados real e exportação de PDF.
 
 Estou **aberto a oportunidades** de estágio ou vagas júnior onde eu possa contribuir e continuar crescendo. 🚀
 
@@ -30,6 +29,8 @@ Estou **aberto a oportunidades** de estágio ou vagas júnior onde eu possa cont
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ## 📚 Aprendendo em breve
 
@@ -40,10 +41,17 @@ Estou **aberto a oportunidades** de estágio ou vagas júnior onde eu possa cont
 
 ## 🚀 Projeto em destaque
 
-### [SIPAG](https://github.com/wadtonrdp/SIPAG)
-> Sistema integrado de controle de estoque, equipamentos e pedidos para agências e sede.
+### [Moneto](https://github.com/wadtonrdp/Moneto)
+> Dashboard financeiro pessoal com design profissional e dados em tempo real.
 
-Projeto comercial desenvolvido em colaboração — eu no frontend com **Next.js + React + TypeScript** e o back-end em **C# + PostgreSQL**.
+Projeto de portfólio desenvolvido do zero com foco em UI/UX e funcionalidades reais — sem dados mockados.
+
+- 💹 **Preços ao vivo** de BTC, ETH e outras criptos via CoinGecko
+- 💵 **Câmbio USD/BRL** em tempo real via Frankfurter
+- 🗄️ **Banco de dados real** com Supabase — sessões isoladas por usuário
+- 📄 **Exportação em PDF** com layout e logo da marca
+- 📊 Relatórios, gráficos e métricas calculadas dinamicamente
+- ⚡ Stack: **Next.js · React · TypeScript · Tailwind CSS · Supabase**
 
 ---
 
@@ -63,5 +71,3 @@ Projeto comercial desenvolvido em colaboração — eu no frontend com **Next.js
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5565999305523)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wadtonrdp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wadtonrdp)
-
----
